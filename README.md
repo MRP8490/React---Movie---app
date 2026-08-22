@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TMDB_API-01D277?style=for-the-badge" alt="TMDB API" />
+  <img src="https://img.shields.io/badge/OMDb_API-01D277?style=for-the-badge" alt="OMDb API" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </p>
 <p align="center">
@@ -50,7 +50,7 @@ Users can search movies, browse trending titles, save favorites, and switch betw
 - React
 - JavaScript
 - Vite
-- TMDB API
+- OMDb API
 - HTML5
 - CSS3
 - Local Storage
@@ -64,7 +64,7 @@ I developed the application using React and reusable components.
 
 My work included:
 
-- Integrating the TMDB API
+- Integrating the OMDb API
 - Building reusable components
 - Implementing movie search
 - Creating favorites functionality
